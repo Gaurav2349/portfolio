@@ -53,19 +53,12 @@ const PROJECTS = [
     github: "https://github.com/Gaurav2349/devops-pipeline",
     highlight: true,
   },
-  {
-    title: "Crop Recommendation System",
-    date: "Jan 2024",
-    desc: "ML-based system suggesting optimal crops based on soil properties and weather data. Interactive Flask + React web app with Matplotlib visualizations.",
-    stack: ["Python", "TensorFlow", "Flask", "React", "NumPy", "Seaborn"],
-    github: "https://github.com/Gaurav2349",
-    highlight: false,
-  },
+ 
 ];
 
 const EXPERIENCE = [
   {
-    period: "Aug 2024 – Feb 2025",
+    period: "Aug 2025 – Feb 2026",
     title: "PG Diploma — DITISS",
     org: "CDAC Pune",
     points: [
